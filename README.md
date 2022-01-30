@@ -1,10 +1,17 @@
 # Discord spam bots with multiple account support and more.
 
 ## PLEASE READ EVERYTHING BEFORE WRITING AN ISSUE!!
-Working DM spammers
- - [X] Text
- - [ ] Insult
+Server Messages
+ - [ ] Text
  - [ ] Image
+Dm Messages
+ - [ ] Text
+ - [ ] Image
+Server Joiner
+ - [ ] Join
+Account Generator
+ - [ ] Create
+ - [ ] Verify
 
 # Features 
 - Account Creator
