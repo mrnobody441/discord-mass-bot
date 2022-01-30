@@ -2,16 +2,16 @@
 
 ## PLEASE READ EVERYTHING BEFORE WRITING AN ISSUE!!
 - Server Messages
- - [ ] Text
- - [ ] Image
+ - [X] Text
+ - [X] Image
 - Dm Messages
- - [ ] Text
- - [ ] Image
+ - [X] Text
+ - [X] Image
 - Server Joiner
- - [ ] Join
+ - [X] Join
 - Account Generator
- - [ ] Create
- - [ ] Verify
+ - [X] Create
+ - [X] Verify
 
 # Features 
 - Account Creator
