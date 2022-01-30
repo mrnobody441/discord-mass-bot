@@ -1,15 +1,15 @@
 # Discord spam bots with multiple account support and more.
 
 ## PLEASE READ EVERYTHING BEFORE WRITING AN ISSUE!!
-Server Messages
+- Server Messages
  - [ ] Text
  - [ ] Image
-Dm Messages
+- Dm Messages
  - [ ] Text
  - [ ] Image
-Server Joiner
+- Server Joiner
  - [ ] Join
-Account Generator
+- Account Generator
  - [ ] Create
  - [ ] Verify
 
